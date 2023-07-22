@@ -181,6 +181,7 @@ header{
 }
 .company>ul>li>a{
     text-decoration: none;
+    color: black;
 }
 .resources{
     flex: 2;
@@ -194,6 +195,7 @@ header{
 }
 .resources>ul>li>a{
     text-decoration: none;
+    color: black;
 }
 .address{
     flex: 4;
