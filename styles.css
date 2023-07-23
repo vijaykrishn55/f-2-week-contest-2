@@ -272,7 +272,7 @@ header{
         display: none !important;
     }
     .navbar-expand-lg{
-        background: transparent !important;
+        background-color: white !important;
         justify-content: start !important;
         width: 100% !important;
     }
